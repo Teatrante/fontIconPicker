@@ -1,0 +1,29 @@
+{
+  "name": "fontIconPicker",
+  "version": "2.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micc83/fontIconPicker"
+  },
+  "keywords": [
+    "icons",
+    "font",
+    "picker"
+  ],
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "LICENSE"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "jquery": ">=1.7.1"
+  }
+}
