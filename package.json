@@ -2,19 +2,20 @@
   "name": "fontIconPicker",
   "version": "2.0.1",
   "description": "",
-  "main": "",
+  "main": "jquery.fontpicker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/micc83/fontIconPicker"
+    "url": "git+https://github.com/Teatrante/fontIconPicker.git"
   },
   "keywords": [
     "icons",
     "font",
     "picker"
   ],
+  "author": "",
   "license": "MIT",
   "licenses": [
     {
@@ -22,8 +23,12 @@
       "url": "LICENSE"
     }
   ],
+  "bugs": {
+    "url": "https://github.com/Teatrante/fontIconPicker/issues"
+  },
   "readmeFilename": "README.md",
   "dependencies": {
     "jquery": ">=1.7.1"
-  }
+  },
+  "homepage": "https://github.com/Teatrante/fontIconPicker#readme"
 }
